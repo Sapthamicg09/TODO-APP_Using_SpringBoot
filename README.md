@@ -26,7 +26,6 @@ MySQL (or any other supported database)
 
 **INSTALLATION:**
 Clone the repository:
-git clone https://github.com/yourusername/ToDoApp.git
 cd ToDoApp
 Set up the database:
 Create a MySQL database named todoapp.\
